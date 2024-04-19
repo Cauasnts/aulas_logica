@@ -1,6 +1,7 @@
 numero = 10 
 
 def aumentar():
-    numero = 0 
+    global numero 
     numero = numero + 1
-    print()
+    print(numero)
+aumentar()
