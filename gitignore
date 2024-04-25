@@ -1,0 +1,12 @@
+# Todos arquivos temporarios
+*.tmp
+
+# Arquivos de compilação
+*.exe
+
+# Ignorar pastas
+node_modules/
+aula GIT/
+
+# Arquivos especificos
+.gitignore
